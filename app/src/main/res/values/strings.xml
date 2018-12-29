@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">GoogleForm</string>
+    <string name="main">Google Form Survey Email Tool</string>
+    <string name="req">*Required</string>
+    <string name="email">Email address*</string>
+    <string name="email1" tools:ignore="DuplicateDefinition">Enter your email address</string>
+    <string name="name">Your Name*</string>
+    <string name="name1" tools:ignore="DuplicateDefinition">Enter your name </string>
+    <string name="mob">Mobile Number*</string>
+    <string name="mob1" tools:ignore="DuplicateDefinition">Enter your mobile number</string>
+    <string name="blood">Blood Group</string>
+    <string name="blood1">Enter your blood group</string>
+    <string name="submit">Submit Your Form</string>
+</resources>
